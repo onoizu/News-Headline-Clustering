@@ -1,0 +1,13 @@
+.venv*/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.ipynb_checkpoints/
+outputs/
+data/*.csv
+!data/demo_headlines.csv
+*.joblib
+*.pkl
+.cache/

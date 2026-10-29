@@ -1,0 +1,5 @@
+-r requirements-semantic.txt
+jupyterlab>=4,<5
+nltk>=3.8,<4
+seaborn>=0.13,<0.14
+kneed>=0.8,<0.9
